@@ -20,13 +20,13 @@ If you want to work on an issue please comment on the issue 😇 Once the issue 
 
 
 # Follow these simple steps :airplane::airplane: 
-1.Fork this repository. 
-2.Clone the repository.
-3.Create A new branch. 
-4.Add information.
-5.Commit Changes. 
-6.Push The changes
-7.Create the Pull Request! Wait for the request to be merged. Till then celebrate for contributing 🥳 🥳
+* Fork this repository. 
+* Clone the repository.
+* Create A new branch. 
+* Add information.
+* Commit Changes. 
+* Push The changes
+* Create the Pull Request! Wait for the request to be merged. Till then celebrate for contributing 🥳 🥳
 
 
 
